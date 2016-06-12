@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Weather</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+	<string-array name = "countries">
+	    
+	    <item >India</item>
+	    <item>Nepal</item>
+	    <item>Bhutan</item>
+		<item>Pakistan</item>
+		<item>Myanmar</item>
+		<item>Sri Lanka</item>
+		<item>China</item>
+		<item>Bangladesh</item>
+		
+	</string-array>
+    
+    
+    
+</resources>
